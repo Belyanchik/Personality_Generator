@@ -16,4 +16,4 @@ This project is a small extension with which I got acquainted with how extension
 
 Popular browsers use the Google Chrome extension system, even if you use a different browser, the principle of unpacking will be approximately similar.
 
-In my project, I used an image from the flaticon website, you can view the original image by clicking on the [link](https://www.flaticon.com/free-icons/anonymous)
+In my project, I used an image from the **Flaticon** website, you can view the original image by clicking on the [link](https://www.flaticon.com/free-icons/anonymous)
