@@ -2,8 +2,8 @@
 <h3 align="center">This is a browser extension that will allow you to create a random identity to register on the site. This project is the first in which I have used JavaScript.</h3>
 
 <h1 align="center">Demonstration</h1>
-<p align="center"><img src="https://media.discordapp.net/attachments/967792782297170062/1059473316575969300/image.png" width="30%"></p>
-<p align="center"><img src="https://media.discordapp.net/attachments/967792782297170062/1059473444393209908/image.png" width="30%"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/967792782297170062/1059473316575969300/image.png" width="25%"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/967792782297170062/1059473444393209908/image.png" width="25%"></p>
 
 <h1 align="center">Installing the extension</h1>
 
