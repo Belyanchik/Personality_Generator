@@ -10,7 +10,7 @@
 This project is a small extension with which I got acquainted with how extensions work in browsers. I didn't upload it to the Chrome Web Store because I don't think it's necessary. If you are interested in seeing how this extension works or you really need it, follow the instructions below to install it in your browser and use it.
 
 1. Download it `.zip` the file of this repository and unpack it in the directory you need.
-2. Open the browser (I will use Google Chrome) and find the extensions section `3 dots > More Tools > Extensions`
+2. Open the browser (I will use Google Chrome) and find the extensions section `Customize and control Google Chrome (3 dots) > More Tools > Extensions`
 3. Turn on `Developer mode`
 4. Click on `Load unpacked`, select the folder where you unpacked `.zip` file and confirm the selection
 
