@@ -1,7 +1,8 @@
-import * as data from "./data.js"
+import * as data from "./data.js" //импорт данных для генерации
 
 const createBtn = document.getElementById("createBtn");
 createBtn.addEventListener("click", () => {
+  //генерация мужского или женского ФИО
   if(Math.ceil(Math.random() * 2) == 1){
     const surname = data.surnames[Math.ceil(Math.random() * data.surnames.length) - 1];
     const name = data.male_names[Math.ceil(Math.random() * data.male_names.length) - 1];
@@ -21,6 +22,7 @@ createBtn.addEventListener("click", () => {
     document.getElementById("patronymicPlc").value = patronymic;
   };
 
+  //генерация остальной информации
   const birthdate = Math.ceil(Math.random() * 31) + "." + Math.ceil(Math.random() * 12) + "." + (Math.ceil(Math.random() * (2010 - 1950 + 1)) + 1950);
   const city = data.citys[Math.ceil(Math.random() * data.citys.length) - 1];
   const hobby = data.hobbys[Math.ceil(Math.random() * data.hobbys.length) - 1];
@@ -29,6 +31,7 @@ createBtn.addEventListener("click", () => {
     password = password + data.symbols[Math.ceil(Math.random() * data.symbols.length) - 1];
   };
 
+  //заполнение полей
   document.getElementById("birthdatePlc").value = birthdate;
   document.getElementById("cityPlc").value = city;
   document.getElementById("hobbyPlc").value = hobby;
