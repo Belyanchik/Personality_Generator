@@ -13,8 +13,8 @@
 <h3 align="center">Это расширение для браузера, которое позволит тебе создать случайную личность для регистрации на сайте. Этот проект - первый, в котором я использовал JavaScript.</h3>
 
 <h1 align="center">Демонстрация</h1>
-<p align="center"><img src="https://github.com/Belyanchik/hello-world/blob/main/img/generator/generator_ru1.png" width="25%"></p>
-<p align="center"><img src="https://github.com/Belyanchik/hello-world/blob/main/img/generator/generator_ru2.png" width="25%"></p>
+<p align="center"><img src="https://github.com/Belyanchik/Personality_Generator/blob/main/img/ru1.png" width="25%"></p>
+<p align="center"><img src="https://github.com/Belyanchik/Personality_Generator/blob/main/img/ru2.png" width="25%"></p>
 
 <h1 align="center">Установка расширения</h1>
 
@@ -38,8 +38,8 @@
 <h3 align="center">This is a browser extension that will allow you to create a random identity to register on the site. This project is the first in which I have used JavaScript.</h3>
 
 <h1 align="center">Demonstration</h1>
-<p align="center"><img src="https://github.com/Belyanchik/hello-world/blob/main/img/generator/generator_en1.png" width="25%"></p>
-<p align="center"><img src="https://github.com/Belyanchik/hello-world/blob/main/img/generator/generator_en2.png" width="25%"></p>
+<p align="center"><img src="https://github.com/Belyanchik/Personality_Generator/blob/main/img/en1.png" width="25%"></p>
+<p align="center"><img src="https://github.com/Belyanchik/Personality_Generator/blob/main/img/en2.png" width="25%"></p>
 
 <h1 align="center">Installing the extension</h1>
 
